@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f54ffa9-9e94-4579-a8d4-5fa2219c7ede" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/htmlcolorcodes/com/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/Loggers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/WebDriverUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/common/Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/common/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/htmlcolorcodes/com/TC001_Validate_content_of_color_names.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2K2HkzT3uJBk9R43sCJ3HSqoukX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/yenle/Desktop/selenium-maven-sample",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/utilities" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/Configurations" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TC001_Validate_content_of_color_names">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="selenium-maven-sample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="selenium-maven-sample" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="www.dev.to.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="www.dev.to" />
+      <option name="MAIN_CLASS_NAME" value="www.dev.to.HomePageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.w3school.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.w3school" />
+      <option name="MAIN_CLASS_NAME" value="org.example.w3school.HomePageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC001_Validate_content_of_color_names" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.htmlcolorcodes.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.htmlcolorcodes.com" />
+      <option name="MAIN_CLASS_NAME" value="org.htmlcolorcodes.com.TC001_Validate_content_of_color_names" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/yenle/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.w3school.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="$USER_HOME$/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml" />
+      <option name="PACKAGE_NAME" value="org.example.w3school" />
+      <option name="MAIN_CLASS_NAME" value="org.example.w3school.HomePageTest" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/yenle/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.w3school.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="$USER_HOME$/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml" />
+      <option name="PACKAGE_NAME" value="org.example.w3school" />
+      <option name="MAIN_CLASS_NAME" value="org.example.w3school.HomePageTest" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TC001_Validate_content_of_color_names" />
+        <item itemvalue="TestNG.HomePageTest (2)" />
+        <item itemvalue="TestNG.HomePageTest" />
+        <item itemvalue="TestNG./Users/yenle/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml (1)" />
+        <item itemvalue="TestNG./Users/yenle/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f54ffa9-9e94-4579-a8d4-5fa2219c7ede" name="Changes" comment="" />
+      <created>1673165906367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673165906367</updated>
+      <workItem from="1673270100572" duration="1494000" />
+      <workItem from="1673349472532" duration="11228000" />
+      <workItem from="1673440465829" duration="3248000" />
+      <workItem from="1673623997464" duration="793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HTMLColorCodesSuite" parallel="tests">
+    <test name="HTMLColorCodes">
+        <classes>
+            <class name="org.htmlcolorcodes.com.TC001_Validate_content_of_color_names"/>
+        </classes>
+    </test>
+</suite>
